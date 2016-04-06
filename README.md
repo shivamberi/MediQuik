@@ -1,4 +1,4 @@
-# MediQuik
+# mediquik
 According to official statistics, our nation requires 4 crore units of blood while only 40 lakh units are actually available. People are dying because their isn't much blood in the blood banks. Just A single car accident victim can require as many as 100 units of blood. On the other hand, India has population of 1.1 billion people who are eligible for donating blood, and many of us want to donate. 
 
 So why not connect these two? The objective of our hack is connecting these needful people with the volunteers with the same blood group who are in that vicinity. Mediquik is a location based emergency health app which enables users in dire need to search for volunteer doctors and blood donors in their immediate vicinity. 
