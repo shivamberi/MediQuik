@@ -23,7 +23,7 @@ After the Hackathon :
 
 3. We plan to integrate Hospitals and NGOs with our app to provide a comprehensive database of voluntary blood donors and doctors. So the hospital can directly see the volunteers in that area and notify them.
 
-4. We would also like to expand on our location based feature by providing features like donating unexpired drugs and other medical supplies to NGOs and hospitals. 
+4. We would also like to expand on our location based feature by providing features like donating unexpired drugs and other medical supplies to NGOs and hospitals. #updated by shubham beri
 
 
 
