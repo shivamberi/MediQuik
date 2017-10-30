@@ -26,4 +26,5 @@ After the Hackathon :
 4. We would also like to expand on our location based feature by providing features like donating unexpired drugs and other medical supplies to NGOs and hospitals. #updated by shubham beri
 
 #Update by Lucky the Boss xD
+#Update by Murec the GE xD
 
