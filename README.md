@@ -4,7 +4,7 @@ According to official statistics, our nation requires 4 crore units of blood w
 So why not connect these two? The objective of our hack is connecting these needful people with the volunteers with the same blood group who are in that vicinity. Mediquik is a location based emergency health app which enables users in dire need to search for volunteer doctors and blood donors in their immediate vicinity. 
 
 We dreamt of a platform where people can volunteer for blood donation, doctors can volunteer for the people in times of emergency for the people in need around them. 
-
+5
 Accomplished : 
 
 1. People can volunteer by registering with the app and giving the blood group and other standard details.
